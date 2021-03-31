@@ -9,3 +9,6 @@ git clone <repo-url>
 
 ## Source code:-
 [SRC](/src)
+
+## Website:-
+[click here](/src/main/resources/templates/main-page.html)
